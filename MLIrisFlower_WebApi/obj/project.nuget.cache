@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "48I12VbAGDopQC2FD3o9EcAH5QHZFKPIsWCABT7g6maUKE5HjIpz6NGSp2I0gGwF0t8NzIe+ORIuPHzykEQcXQ==",
+  "dgSpecHash": "TF+5Ywn8OotIxjxGQRB0vBuE7hOIWxBnx8H2WZdmxIiK3julsoUk2LAU3IVpbOZd7C/Y8/IzhTuDbvCLg+FSaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\source\\repos\\ClassificationOfIrisFlower\\MLIrisFlower_WebApi\\MLIrisFlower_WebApi.csproj",
+  "projectFilePath": "C:\\Users\\andre\\IdeaProjects\\IrisFlowerProject\\MLIrisFlower_WebApi\\MLIrisFlower_WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
